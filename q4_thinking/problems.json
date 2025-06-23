@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "problem": "A train travels 240 miles in 4 hours. If it increases its speed by 25%, how long will it take to travel 300 miles?",
+    "answer": 4.0
+  },
+  {
+    "id": 2,
+    "problem": "Sarah bought 3 shirts for $25 each and 2 pairs of pants for $40 each. If she paid with a $200 bill, how much change did she receive?",
+    "answer": 45
+  },
+  {
+    "id": 3,
+    "problem": "A rectangular garden has length 18 feet and width 12 feet. If a path 2 feet wide is built around the garden, what is the area of the path in square feet?",
+    "answer": 128
+  },
+  {
+    "id": 4,
+    "problem": "John invested $5000 at 8% annual interest compounded annually. What will be the value of his investment after 2 years?",
+    "answer": 5832
+  },
+  {
+    "id": 5,
+    "problem": "A water tank can be filled by pipe A in 6 hours and by pipe B in 4 hours. If both pipes work together, how many hours will it take to fill the tank?",
+    "answer": 2.4
+  },
+  {
+    "id": 6,
+    "problem": "In a class of 40 students, 60% are girls. If 25% of the girls and 30% of the boys wear glasses, how many students wear glasses?",
+    "answer": 10
+  },
+  {
+    "id": 7,
+    "problem": "A store offers a 20% discount on all items, then adds 8% sales tax. If the original price of an item is $150, what is the final price the customer pays?",
+    "answer": 129.6
+  },
+  {
+    "id": 8,
+    "problem": "Two cars start from the same point traveling in opposite directions. Car A travels at 55 mph and Car B travels at 65 mph. After how many hours will they be 480 miles apart?",
+    "answer": 4.0
+  },
+  {
+    "id": 9,
+    "problem": "A mixture contains alcohol and water in the ratio 3:7. If 40 liters of water is added to 100 liters of this mixture, what is the new ratio of alcohol to water?",
+    "answer": "3:11"
+  },
+  {
+    "id": 10,
+    "problem": "A circular pizza with radius 10 inches is cut into 8 equal slices. What is the area of each slice in square inches? (Use π = 3.14)",
+    "answer": 39.25
+  }
+]
